@@ -15,7 +15,7 @@
 
       for(var i = 0; i < names.length; i++) {
           var name = names[i];
-          names[i] = true;
+//          names[i] = true;
           append(document.getElementById(name));
           name = name.replace(':', '\\:');
           if (element.querySelectorAll) {
@@ -26,7 +26,6 @@
               elements2 = element.querySelectorAll('.' + name + '\\:');
               for(var j = 0; j < elements2.length; j++) append(elements2[j]);
 
-            console.log( name)
 
             elements2 = element.querySelectorAll('[' + name + ']');
               for(var j = 0; j < elements2.length; j++) append(elements2[j]);
@@ -34,7 +33,6 @@
             console.log("not support querySelectAll")
           }
       }
-    console.log( elements)
 
 
     for(var i = 0; i < elements.length; i++) {
@@ -49,9 +47,8 @@
               if(element.attributes) {
                   for (var attrName in element.attributes) {
                       if(attrName == "length") continue;
-                      var attr = { name: attrName, value: element.attributes[attrName].nodeValue };
-                      
-                      if (names[attr.name]) {
+                      var attr = { name: element.attributes[attrName].nodeName, value: element.attributes[attrName].nodeValue };
+                      if ( names.indexOf(attr.name ) !== -1) {
                           moduleElements.push(element);
                           modules.push(attr.value);
                       }
@@ -59,13 +56,13 @@
               }
           }
       }
-      
-      for(var i = 0; i < moduleElements.length; i++) {
+
+    for(var i = 0; i < moduleElements.length; i++) {
           var moduleElement = moduleElements[i];
           var module = modules[i].replace(/ /g,'').split(",");
-          console.log( moduleElement, module)
           angular.bootstrap(moduleElement, module);
       }
+
   }
 
   angular.element(document).ready(function() {
