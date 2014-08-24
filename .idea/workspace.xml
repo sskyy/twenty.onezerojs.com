@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c01b6f5-5eca-4080-bdb0-1f8db14abe75" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/default/styles/importer.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/avatar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/bubble.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/comments.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/context.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/dialog.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/duoshuo.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/global.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/login.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/meta.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/notify.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/recent-comments.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/recent-visitors.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/replybox.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/smilie.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/thread.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/toolbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/css/duoshuo-embed.css/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/404_500_errors.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/AdminLTE.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/bootstrap-social.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/boxes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/callout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/custom.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/dropdown.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/header.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/iCheck.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/invoice.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/label.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/lockscreen.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/login_and_register.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/mailbox.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/modal.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/pace.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/sidebar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/skins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/small-box.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/textAngular.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/timeline.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.tmp/public/twenty/less/vars.less" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/twenty/css/duoshuo-embed.css" afterPath="$PROJECT_DIR$/assets/twenty/css/duoshuo-embed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/twenty/index.jade" afterPath="$PROJECT_DIR$/views/twenty/index.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.tmp/localDiskDb.db" afterPath="$PROJECT_DIR$/.tmp/localDiskDb.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/twenty/common/head-admin.jade" afterPath="$PROJECT_DIR$/views/twenty/common/head-admin.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/twenty/common/head.jade" afterPath="$PROJECT_DIR$/views/twenty/common/head.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/twenty/css/style.css" afterPath="$PROJECT_DIR$/assets/twenty/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -83,6 +34,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="774">
               <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.2" vertical-offset="1576" max-vertical-offset="2232">
+              <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -118,11 +79,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/twenty/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36760125" vertical-offset="15748" max-vertical-offset="19332">
-              <caret line="888" column="44" selection-start-line="888" selection-start-column="44" selection-end-line="888" selection-end-column="44" />
+            <state vertical-scroll-proportion="-6.1538463" vertical-offset="13484" max-vertical-offset="19332">
+              <caret line="758" column="147" selection-start-line="758" selection-start-column="147" selection-end-line="758" selection-end-column="147" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/default/js/lib/angular.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3906">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/twenty/common/head.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.04" vertical-offset="0" max-vertical-offset="684">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head-admin.jade" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/twenty/common/head-admin.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.507109" vertical-offset="537" max-vertical-offset="1170">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lodash.compat.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/default/js/lib/lodash.compat.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -141,11 +142,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.sailsrc" />
         <option value="$PROJECT_DIR$/assets/twenty/js/statistics/visit.js" />
         <option value="$PROJECT_DIR$/api/hooks/index/index.js" />
         <option value="$PROJECT_DIR$/views/twenty/index.jade" />
+        <option value="$PROJECT_DIR$/.sailsrc" />
         <option value="$PROJECT_DIR$/assets/twenty/css/style.css" />
+        <option value="$PROJECT_DIR$/views/twenty/common/head.jade" />
+        <option value="$PROJECT_DIR$/views/twenty/common/head-admin.jade" />
       </list>
     </option>
   </component>
@@ -249,11 +252,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="twenty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -290,6 +363,58 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twenty.onezerojs.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -362,7 +487,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/default/js/lib" />
+      <recent name="$PROJECT_DIR$/assets/twenty/js/lib" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/default/js/lib" />
     </key>
   </component>
   <component name="RunManager">
@@ -425,14 +555,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.sailsrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="774">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/twenty/js/statistics/visit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="900">
@@ -457,10 +579,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.sailsrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="774">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.2" vertical-offset="1576" max-vertical-offset="2232">
+          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/twenty/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36760125" vertical-offset="15748" max-vertical-offset="19332">
-          <caret line="888" column="44" selection-start-line="888" selection-start-column="44" selection-end-line="888" selection-end-column="44" />
+        <state vertical-scroll-proportion="-6.1538463" vertical-offset="13484" max-vertical-offset="19332">
+          <caret line="758" column="147" selection-start-line="758" selection-start-column="147" selection-end-line="758" selection-end-column="147" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/default/js/lib/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3906">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/default/js/lib/lodash.compat.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/twenty/common/head.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.04" vertical-offset="0" max-vertical-offset="684">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/twenty/common/head-admin.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.507109" vertical-offset="537" max-vertical-offset="1170">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding />
         </state>
       </provider>
